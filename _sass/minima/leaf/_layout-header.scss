@@ -1,16 +1,16 @@
-.site-header {
-    position: fixed;
-    top:0;
-    left:0;
-    width:100%;
-    height:60px;
-    display: flex;
-    align-items: center;
-    background-color:$header-color;
-    border-bottom:2px solid $theme-color;
-    padding-left:20px;
-    font-weight: 600;
-}
+// .site-header {
+//     position: fixed;
+//     top:0;
+//     left:0;
+//     width:100%;
+//     height:60px;
+//     display: flex;
+//     align-items: center;
+//     background-color:$header-color;
+//     border-bottom:2px solid $theme-color;
+//     padding-left:20px;
+//     font-weight: 600;
+// }
 
 .site-title {
     @include relative-font-size(1.625);
