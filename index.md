@@ -92,10 +92,12 @@ hide: true
   <div class="card">
     <h2>Drishya Mody</h2>
     <div class="links">
-      <a href="mailto:modydrishya@email.com">📧 modydrishya@email.com</a>
-      <a href="https://www.linkedin.com/in/drishya-mody/" target="_blank">🔗 LinkedIn</a>
-      <a href="https://github.com/drishyamody" target="_blank">💻 GitHub</a>
-      <a href="https://drishyamody.github.io/CSAstudent_T1/about/" target="_blank">🌐 Personal Website</a>
+<a href="mailto:modydrishya@email.com?subject=Hello%20Drishya&body=I%20came%20across%20your%20portfolio%20and%20wanted%20to%20connect.">📧 modydrishya@email.com</a>
+    <a href="https://www.linkedin.com/in/drishya-mody/" target="_blank">🔗 LinkedIn</a>
+    <a href="https://github.com/drishyamody" target="_blank">💻 GitHub</a>
+    <a href="https://drishyamody.github.io/CSAstudent_T1/about/" target="_blank">🌐 Personal Website</a>
     </div>
-    <button class="download-btn">Download vCard</button>
+
+<a class="download-btn" href="/assets/drishya.vcf" download="Drishya_Mody_Contact.vcf">Download vCard</a>
+
   </div>
